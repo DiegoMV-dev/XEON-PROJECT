@@ -1,0 +1,23 @@
+@font-face {
+    font-family: Roboto Mono;
+    src: url(fonts/RobotoMono-Italic.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: Roboto Slab1;
+    src: url(fonts/RobotoSlab-ExtraBold.ttf);
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: Asgard;
+    src: url(fonts/AsgardTrial-FitMedium.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: Asgard R;
+    src: url(fonts/AsgardTrial-FitRegular.ttf);
+    font-weight: 900;
+}
